@@ -55,7 +55,8 @@ margin: 0;
      text-decoration: none;
      justify-content:flex-end;
      margin-bottom: 162px;
-
+     background: url(header.png) 50% no-repeat;
+     background-size: contain;
 
      padding-top: 0px;
  }
@@ -268,6 +269,7 @@ margin: 0;
      display:inline-block;
      padding:15px;
      margin:10px;
+     max-width: 100%;
  }
 
 
